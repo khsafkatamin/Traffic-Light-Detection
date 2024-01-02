@@ -1,2 +1,8 @@
-# Traffic-Light-Detection
-Project done for the Course "Automated and Connected Driving Challenges - Research Project" 
+# Traffic Light Detection
+
+### :arrow_forward: [Task Description](task.ipynb)
+
+# Project Title: A Comparative Study on YOLOv5-Based Traffic Light Recognition for Automated Driving
+
+# Introduction:
+This project, part of the coursework Automated and Connected Driving Challenges-Research Project, delves into enhancing automated driving systems' traffic light recognition. Leveraging the YOLOv5 architecture, it aims to refine the detection and classification of traffic lights crucial for urban autonomous navigation. Through a comparative analysis with established computer vision methods, this research seeks to optimize accuracy and efficiency in this critical aspect of autonomous driving technology.
